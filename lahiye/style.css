@@ -1,0 +1,165 @@
+.wrapper{
+	width:1260px;
+	margin:0 auto;
+}
+.row{
+	width:100%;
+	height:auto;
+	display: block;
+}
+.col1{
+	width:8.3333%;
+}
+.col2{
+	width:16.6666%;
+}
+.col3{
+	width:24.9999%;
+}
+.col4{
+	width:33.3332%;
+}
+.col5{
+	width:41.6665%;
+}
+.col6{
+	width:49.9998%;
+}
+.col7{
+	width:58.3331%;
+}
+.col8{
+	width:66.6664%;
+}
+.col9{
+	width:74.9997%;
+}
+.col10{
+	width:83.333%;
+}
+.col11{
+	width:91.6663%;
+}
+.col12{
+	width:99.9996%;
+}
+[class*="col"] {
+   height:auto;
+   float:left;
+   box-sizing: border-box;
+   padding:5px;
+   border:1px solid lightgray;
+}
+img{
+	width:100%;
+}
+.left{
+	float:left;
+}
+.right{
+	float:right;
+}
+.clear{
+	clear:both;
+	margin:5px 0px;
+}
+.mainColor{
+	background:gray;
+}
+.secondaryColor{
+	background:lightgray;
+}
+h1{
+	background:darkgray;
+	padding:5px 20px;
+	font-size:1.4em;
+}
+.margin-25{
+margin-top:25px;
+}
+.element1{
+background-color:red;
+height:200px;
+width: 300px;
+}
+.element2{
+background-color:red;
+height:200px;
+width:300px;
+}
+.element3{
+background-color:red;
+height:200px;
+width:300px;
+}
+.element4{
+background-color:red;
+height:200px;
+width:300px;
+}
+.element5{
+background-color:white;
+height:230px;
+width:315px;
+}
+.col_1 li{
+list-style-type:none;
+}
+.margin-ayirici{
+margin-right:40px;
+}
+.col_8 .aparan{
+margin-left:387px;
+}
+.col_8 i{
+margin-left:10px;
+font-size:25px;
+
+background-color:#d1d1d1;
+color:black;
+border-radius:50px;
+}
+.col_8 i:hover{
+background-color:red;
+color:white;
+}
+.third i{
+margin-left:125px;
+margin-top:50px;
+border:1px solid white;
+background-color:#d1d1d1;
+border-radius:100px;
+}
+.third i:hover{
+	background-color:red;
+color:white;
+}
+.third p{
+margin-left:50px;
+}
+.xett{
+border:1px solid #cfcfcf;
+width:1247px;
+}
+.xettt p{
+text-align: center;
+padding: 36px 0;
+line-height: 20px;
+font-size: 18px;
+color: #3b3b3b;
+font-family: 'Open Sans', sans-serif;
+font-weight: 400;
+position: relative;
+text-transform: uppercase;
+}
+.element5 img{
+height:220px;
+}
+.element6{
+height:400px;
+width:630px;
+}
+.element7{
+height:400px;
+width:315px;
+}
